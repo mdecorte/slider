@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+
+}
+
+#menu {
+	position: fixed;
+	top: 50px;
+	width: auto;
+	height: auto;
+}
+
+#belMe {
+	position: absolute;
+	left: -100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+}
+
+#belMeInUit {
+	position: absolute;
+	width: 40px;
+	height: 100px;
+	background-color: yellow;
+}
+
