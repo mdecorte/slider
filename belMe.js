@@ -4,7 +4,7 @@
 
 
 
-var pos = false
+var pos = false;
 
 // ALS JE KLIKT OP LABEL (belInUit)
 $("#belMeInUit").click(function(e) {
